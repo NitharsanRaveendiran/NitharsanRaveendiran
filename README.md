@@ -5,7 +5,7 @@
 ---
 
 ## Contact
-- **Email**: [nnithar4@gmail.com](mailto:nnithar4@gmail.com)
+- **Email**: [nitharsanraveendiran@gmail.com](mailto:nitharsanraveendiran@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/username)
 - **GitHub**: [GitHub Profile](https://github.com/username)
 
