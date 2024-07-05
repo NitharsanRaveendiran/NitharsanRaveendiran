@@ -1,80 +1,72 @@
-# Raveendiran Nitharsan
+# Nitharsan Raveendiran - Data Engineer / Data Analyst
 
-**Data Engineer & Data Analyst**
+## Contact Information
 
----
+- **Location:** Neuilly-Plaisance, 93360
+- **Phone:** +33 767865033
+- **Email:** nitharsanraveendiran@gmail.com
+- **LinkedIn:** [Nitharsan Raveendiran](http://www.linkedin.com/in/nitharsan-raveendiran)
 
-## Contact
-- **Email**: [nitharsanraveendiran@gmail.com](mailto:nitharsanraveendiran@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/username)
-- **GitHub**: [GitHub Profile](https://github.com/username)
+## Summary
 
----
+Étudiant en Master 2 “Data Engineering” à l'école EFREI Paris. À la recherche d'un stage de fin d’étude ou d’alternance à partir de Octobre 2024.
 
-## Education
+## Expériences
 
-### Master in Data Engineering
-**EFREI**, Paris, France  
-*Sep. 2022 - Sep. 2024*
+### Veolia (Sep. 2023 - Présent)
+**Data Analyst en alternance**
 
-### Bachelor in Mathematics
-**Université Paris Diderot**, Paris, France  
-*Sep. 2019 - Sep. 2022*
+- Administration et gestion des bases de données dans BigQuery.
+- Création et gestion des pipelines ETL pour l'intégration des données sur GCP.
+- Création de rapports détaillés et de visualisations pour faciliter la prise de décision avec Google slides et Looker Studio.
+- Implémentation d'un entrepôt de données sur Azure pour recueillir les données d'assainissement d'eau, en utilisant Data Factory, Databricks, Pyspark et Blob Storage.
+- Développement d'API RESTful en Python avec Django, permettant de se connecter à la base de données PostgreSQL.
 
----
+### Risk’n tic (Sep. 2022 - Sep. 2023)
+**Data Analyst & Data Scientist en alternance**
 
-## Professional Experience
+- Analyse et Extraction de Données Mitre Att&ck utilisant Python.
+- Gestion et synchronisation des bases de données PostgreSQL.
+- Mise en œuvre des processus ETL utilisant Python et SQL.
+- Conception et modélisation des structures de données (MCD/MPD).
+- Création et automatisation des tableaux de bord et rapports clients sur Power BI.
+- Création de la Cyber-Kill-Chain et Chemin d'Attaque en Python.
+- Développement d'algorithmes pour prédire les cyberattaques sur un système d'information en fonction de sa protection actuelle.
 
-### Data Analyst (Internship)
-**Veolia**  
-*Sep. 2023 - Sep. 2024*  
-- Development of prediction algorithms for cyber attacks.
-- Data modeling and conception (MCD/MPD).
-- ETL processes using Python and SQL.
-- Synchronization of Mitre Att&ck data and enterprise data.
-- PostgreSQL database management.
-- Creation of Cyber-Kill-Chain and Attack Path in Python.
-- Client report automation and SQL query development.
+## Projets Réalisés
 
-### Data Scientist (Internship)
-**Risk’n tic**  
-*Sep. 2022 - Sep. 2023*  
-- Implementation of data warehouse on BigQuery.
-- Process automation.
-- Data analysis and reporting.
-- Creation of KPIs on Looker Studio.
-- Coordination and organization of meetings.
+### Analyse du parc téléphonie
+- Analyse des données de consommation pour proposer des forfaits adaptés utilisant Excel, SQL et BigQuery.
+- Création de rapports détaillés et de visualisations pour faciliter la prise de décision avec Google slides et Looker Studio.
 
----
+### Développement de l'entrepôt de données
+- Implémentation d'un entrepôt de données sur Azure pour recueillir les données d'assainissement d'eau, en utilisant Data Factory, Databricks, Pyspark et Blob Storage.
 
-## Key Projects
+## Formations
 
-### Telephony Data Analysis
-- Analyzed consumption data to propose suitable packages using Excel, SQL, and BigQuery.
-- Created detailed reports and visualizations for decision-making with Google Slides and Looker Studio.
+### EFREI (Sep. 2022 - Sep. 2024)
+**Master en Data Engineering** - Paris, France
 
-### Data Warehouse Development
-- Implemented a data warehouse on Azure for water sanitation data using Data Factory, Databricks, Pyspark, and Blob Storage.
-- Developed RESTful APIs in Python with Django to connect to PostgreSQL databases.
+### Université Paris Diderot (Sep. 2019 - Sep. 2022)
+**Licence en Mathématiques** - Paris, France
 
-### Machine Learning Projects
-- Real estate price prediction using Scikit-learn.
-- Classification problem-solving.
+## Compétences
 
----
+- **Langages de programmation:** Python, R, SQL, NoSQL
+- **Frameworks et Outils:** GitHub, GCP, Azure, Apache Hive, Spark, MongoDB, PostgreSQL, MySQL, BigQuery
+- **Outils de visualisation:** Power BI, Tableau, Looker Studio
+- **Outils de développement:** VS Code, Jupyter, R Studio, Shell, Terraform, Excel
+- **Certificats:** Azure Fundamental, PowerBI, DP203 - en cours, Google Ads
 
-## Technical Skills
+## Langues
 
-- **Languages**: Python, R, SQL, NoSQL
-- **Frameworks**: GitHub, GCP, Azure, Apache Hive, Spark, MongoDB, PostgreSQL, MySQL, BigQuery
-- **Visualization Tools**: Power BI, Tableau, Looker Studio
-- **Development Tools**: VS Code, Jupyter, R Studio, Shell, Terraform, Excel
-- **Certifications**: Microsoft Azure -900, Google Ads
+- **Français:** Courant
+- **Anglais:** Courant
+- **Tamoul:** Maternelle
 
----
+## Soft Skills
 
-## Languages
-
-- **French**: Native
-- **English**: B2/C1
-- **Tamil**: Native
+- Adaptabilité
+- Gestion du stress
+- Autonomie
+- Communication
