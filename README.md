@@ -7,9 +7,6 @@
 - **Email:** nitharsanraveendiran@gmail.com
 - **LinkedIn:** [Nitharsan Raveendiran](http://www.linkedin.com/in/nitharsan-raveendiran)
 
-## Summary
-
-Étudiant en Master 2 “Data Engineering” à l'école EFREI Paris. À la recherche d'un stage de fin d’étude ou d’alternance à partir de Octobre 2024.
 
 ## Expériences
 
